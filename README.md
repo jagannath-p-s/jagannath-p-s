@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @jagannath-p-s
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning react-framework
-- 💞️ I’m looking to collaborate on developing web projects
-- 📫 mail me on jagannathps2000@gmail.com
-
-<!---
-jagannath-p-s/jagannath-p-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi , everyone I edited the github repositories to show my journey right from the start
+           |
+humble python beginnings
+           |
+introduced to programming in C
+           |
+much better experience with C++
+           |
+mySQL for database management
+           |
+shell commands and system administration
+           |
+project development with java
+           |
+HTML5,CSS3 and JavaScript for web projects
+           |
+Advancement to React and Bootstrap frameworks
+           |
+MERN development to convert a project idea to reality
