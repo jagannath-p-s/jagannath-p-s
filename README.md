@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagannath-p-s)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?bg_color=0000&text_color=888&hide_border=true&username=jagannath-p-s&hide=contribs,issues&show_icons=true&count_private=true&rank_icon=github)](https://github.com/jagannath-p-s/jagannath-p-s)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=0000&text_color=888&hide_border=true&username=cupoftea0315&layout=compact&hide_progress=true)](https://github.com/jagannath-p-s/jagannath-p-s)
