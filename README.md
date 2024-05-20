@@ -16,13 +16,12 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Java, Python, JavaScript, C++
-- **Frameworks and Libraries**: Spring Boot, React.js, Node.js, Express.js
+- **Programming Languages**: JavaScript ,Python ,Java ,C++
+- **Frameworks and Libraries**:  React.js, Node.js, Express.js , Spring Boot
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
+- **Cloud Platforms**: AWS , Google Cloud
 - **Version Control**: Git, GitHub
-- **Tools**: IntelliJ IDEA, PyCharm, Visual Studio Code
-
+- **Tools**: Visual Studio Code , Android Studio , Eclipse , Docker 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -31,8 +30,7 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 ## 🔗 Links
 
-- **Portfolio**: [jagannath-p-s.github.io](https://jagannath-p-s.github.io/)
-- **Blog**: [dev.to/jagannath_p_s](https://dev.to/jagannath_p_s)
+
 - **Resume**: [resume.jagannath-p-s.pdf](https://resume.jagannath-p-s.pdf)
 
 ## 🤝 Let's Connect
