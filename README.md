@@ -24,14 +24,23 @@ I'm a passionate software developer with a keen interest in exploring the world 
 - **Tools**: Visual Studio Code , Android Studio , Eclipse , Docker 
 ## 📊 GitHub Stats
 
+## 🔗 Links
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jagannath-p-s&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-## 🔗 Links
+#### GitHub Streak Stats Card
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=radical)
 
-- **Resume**: [resume.jagannath-p-s.pdf](https://resume.jagannath-p-s.pdf)
+#### Top Languages Card
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagannath-p-s&layout=compact&theme=radical)
+
+#### GitHub Profile Trophy Card
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jagannath-p-s&theme=radical)
 
 ## 🤝 Let's Connect
 
