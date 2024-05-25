@@ -18,10 +18,11 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 - **Programming Languages**: JavaScript ,Python ,Java ,C++
 - **Frameworks and Libraries**:  React.js, Node.js, Express.js , Spring Boot
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB 
 - **Cloud Platforms**: AWS , Google Cloud
 - **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code , Android Studio , Eclipse , Docker 
+- **Tools**: Visual Studio Code , Android Studio , Eclipse , Docker
+- **Platforms**: Ubuntu , Windows  
 ## 📊 GitHub Stats
 
 ### 📊 GitHub Stats
