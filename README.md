@@ -25,7 +25,6 @@ I'm a passionate software developer with a keen interest in exploring the world 
 - **Platforms**: Ubuntu , Windows  
 ## 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagannath-p-s&theme=tokyonight" />
