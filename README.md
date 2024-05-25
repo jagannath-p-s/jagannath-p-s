@@ -27,14 +27,23 @@ I'm a passionate software developer with a keen interest in exploring the world 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagannath-p-s&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=radical" alt="GitHub Streak" width="50%">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagannath-p-s&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagannath-p-s&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagannath-p-s&layout=compact&theme=radical" alt="Top Languages" width="50%">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagannath-p-s&theme=radical" alt="GitHub Trophies" width="50%">
-</p>
+<div align="center">
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagannath-p-s&theme=tokyonight" />
+
+</br>
+
+</div>
+
+
+
+<!-- [![jagannaths's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jagannath-p-s&hide_border=true&theme=tokyo-night)](https://github.com/jagannath-p-s) -->
+
 
 ## 🤝 Let's Connect
 
