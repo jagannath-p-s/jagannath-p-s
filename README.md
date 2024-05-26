@@ -10,7 +10,6 @@
   <a href="https://twitter.com/jagannath_p_s"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-## 🚀 About Me
 
 I'm a passionate software developer with a keen interest in exploring the world of technology. I'm always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry.
 
@@ -23,7 +22,7 @@ I'm a passionate software developer with a keen interest in exploring the world 
 - **Version Control**: Git, GitHub
 - **Tools**: Visual Studio Code , Android Studio , Eclipse , Docker
 - **Platforms**: Ubuntu , Windows  
-## 📊 GitHub Stats
+
 
 
 <p align="center">
@@ -44,7 +43,5 @@ I'm a passionate software developer with a keen interest in exploring the world 
 
 <!-- [![jagannaths's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jagannath-p-s&hide_border=true&theme=tokyo-night)](https://github.com/jagannath-p-s) -->
 
-
-## 🤝 Let's Connect
 
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about technology. I'm always happy to connect with like-minded individuals and explore new opportunities.
