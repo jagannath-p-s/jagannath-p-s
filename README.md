@@ -13,21 +13,6 @@
 
 I'm a passionate software developer with a keen interest in exploring the world of technology. I'm always eager to learn new things and stay up-to-date with the latest trends and technologies in the industry.
 
-##  Tech Stack
-
-| Skill                 | Level  | Projects Used In |
-|-----------------------|--------|------------------|
-| JavaScript ()        |  Advanced | [Project 1](link-to-project), [Project 2](link-to-project2) |
-| Python ()             |   Intermediate |  ... |
-| Java (☕)               | ☕ Beginner | ... |
-| React.js (⚛️)          |  Advanced | [Project 1](link-to-project), ... |
-| Node.js & Express.js () |  Advanced | [Project 1](link-to-project), ... |
-| Databases (️)         | ️ MySQL (Master), ️ PostgreSQL (Intermediate) | ... |
-| Cloud Platforms (☁️)   | ☁️ AWS Certified | ... |
-| Version Control ()   |  Git Master | All Projects |
-| Tools ()             |  Visual Studio Code (Daily Driver) | ... |
-| Platforms ()          |  Ubuntu () & Windows (🪟) | ... |
-
 
 <p align="center">
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagannath-p-s&theme=tokyonight" />
