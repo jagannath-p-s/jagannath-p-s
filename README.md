@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jagannath P S 👋</h1>
+<h1 align="center">Hi , I'm Jagannath P S 👋</h1>
 
 <p align="center">
   <a href="https://github.com/jagannath-p-s"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Passionate+Software+Developer;Always+learning+new+things;Exploring+the+world+of+technology"></a>
