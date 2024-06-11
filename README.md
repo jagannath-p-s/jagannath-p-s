@@ -15,13 +15,14 @@
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagannath-p-s&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagannath-p-s&theme=tokyonight" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=tokyonight" alt="jagannath-p-s" />
+
 </p>
 
 <div align="center">
 
    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagannath-p-s&theme=tokyonight" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=tokyonight" alt="jagannath-p-s" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=tokyonight" alt="jagannath-p-s" />
 
 </br>
 
