@@ -15,6 +15,7 @@
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagannath-p-s&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagannath-p-s&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=tokyonight" alt="jagannath-p-s" />
 </p>
 
 <div align="center">
