@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/jagannath-p-s"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Passionate+Software+Developer;Always+learning+new+things;Exploring+the+world+of+technology"></a>
 </p>
-
+<a href="https://app.daily.dev/jagannathps6"><img src="https://api.daily.dev/devcards/v2/zGDXBXj99Us48J7TFMiLL.png?type=default&r=753" width="356" alt="Jagannath p s's Dev Card"/></a>
 <p align="center">
   <a href="https://www.linkedin.com/in/jagannath-p-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jagannathps2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
