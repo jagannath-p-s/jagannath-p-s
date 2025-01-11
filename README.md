@@ -37,7 +37,3 @@
 
 </div>
 
-
-
-<!-- [![jagannaths's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jagannath-p-s&hide_border=true&theme=tokyo-night)](https://github.com/jagannath-p-s) -->
-
