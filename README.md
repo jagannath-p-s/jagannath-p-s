@@ -1,4 +1,3 @@
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/jagannath-p-s?pet-id=665788657458388370"
@@ -27,7 +26,12 @@
 
 </p>
 
+<div align="center" margin="20px">
 
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagannath-p-s&theme=tokyonight" />
+   <img width="75%" border="black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-p-s&theme=tokyonight" alt="jagannath-p-s" />
+  
+
+</br>
 
 </div>
-
