@@ -1,8 +1,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/jagannath-p-s?pet-id=665788657458388370"
-    width="600"
-    height="120"
+    src="https://media0.giphy.com/media/zRkeKuEz07wjjRNY7k/giphy.gif?cid=6c09b9529o3qumr6uvs2x4r334c489n8tz18iv42fjh5mi20&ep=v1_gifs_search&rid=giphy.gif&ct=g"
   />
 </a>
   
