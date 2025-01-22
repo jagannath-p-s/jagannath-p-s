@@ -1,6 +1,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://media0.giphy.com/media/zRkeKuEz07wjjRNY7k/giphy.gif?cid=6c09b9529o3qumr6uvs2x4r334c489n8tz18iv42fjh5mi20&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif"
   />
 </a>
   
